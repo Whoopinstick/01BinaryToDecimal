@@ -42,7 +42,6 @@ struct ContentView: View {
                 
             }
                 
-                
             .navigationBarTitle("Binary To Decimal")
             
             .alert(isPresented: $isShowingAlert) {
